@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">KursusHub</string>
+    <string name="nomor_telp">Nomor Telepon</string>
+    <string name="email">Email</string>
+    <string name="nama">Nama Lengkap</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="konfirmasi_password">Konfirmasi Password</string>
+    <string name="daftar">Daftar</string>
+    <string name="masuk">Masuk</string>
+    <string name="daftar_disini">Belum punya akun? Daftar disini</string>
+    <string name="detail_lkp">Detail LKP</string>
+    <string name="identitas_lkp">NPSN:\nAlamat:\nEmail:\nStatus Sekolah:\nBentuk Pendidikan:\nJenjang Pendidikan:\nProgram Layanan:</string>
+    <string name="hubungi_lkp">Hubungi LKP</string>
+    <string name="greeting_message">Selamat datang, Hub!</string>"
+    <string name="Data_LKP">Data LKP Kota Bandung</string>"
+    <string name="regist">Registrasi Akun</string>
+    <string name="syarat_ketentuan">Saya mengerti syarat dan ketentuan</string>
+</resources>
